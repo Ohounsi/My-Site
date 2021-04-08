@@ -1,0 +1,130 @@
+  /********************** TAG SELECTORS ***************/
+
+  body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+  background-color: #EAF6F6;
+  }
+
+
+  h1 {
+    color: #66BFBF;
+    font-size: 3.75rem;
+    margin: 50px auto 0 auto;
+
+  }
+
+  h3 {
+    color: #11999E;
+
+  }
+
+  h2 {
+    color: #66BFBF;
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: black;
+    border-width: 8px;
+    width: 5%;
+  }
+
+  p {
+    color: #40514E;
+  }
+
+
+  /*********************** CLASS SELECTORS *************/
+  .top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding: 90px;
+    padding-bottom: 0;
+  }
+
+  .middle-container {
+    padding: 30px;
+    background-color: #f5f5f5;
+  }
+
+  .bottom-container {
+    background-color: #66BFBF;
+    padding-bottom: 20px;
+  }
+
+  .book {
+    color: #20b2aa;
+    text-decoration: underline;
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+  }
+
+  .btn {
+    background: #66BFBF;
+    background-image:  #66BFBF;
+    background-image:  #66BFBF;
+    background-image:  #66BFBF;
+    border-radius: 8px;
+    color: white;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 100;
+    padding: 12px;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+      }
+
+  .copyright {
+    color: #EAF6F6;
+  }
+
+
+  .Coding {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+
+  .footer-link {
+    color: #11999E;
+    padding-right: 30px;
+    text-decoration: none;
+  }
+
+  .footer-link:hover {
+    color: #EAF6F6;
+  }
+
+  .skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+  }
+
+
+  .Stories {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 25px;
+  }
